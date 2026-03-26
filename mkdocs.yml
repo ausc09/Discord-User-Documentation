@@ -1,4 +1,4 @@
-site_name: Discord
+site_name: Discord User Documentation
 
 theme:
   name: material
@@ -18,3 +18,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Getting Started: setup.md
+  - Server Setup: server.md
+  - Channel Management: channel.md
+  - Meetings: meeting.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
