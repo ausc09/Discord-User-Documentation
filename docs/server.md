@@ -22,9 +22,12 @@ For more information about Discord features, visit the [Discord website](https:/
 ## Setup Steps
 
 1. Open Discord and click **+ (Add a Server)**.  
+![Add a Server](image/server_setup/t2_s1_add_server.png)
 
 2. Select **Create My Own** and choose the server type.  
    **Why:** This creates a custom server suited to your team’s use case.
+![Choose the server type](image/server_setup/t2_s1_create_my_own.png)
+
 
 3. Enter a clear server name and click **Create**.  
    **Why:** A clear name helps teammates identify the correct server quickly.
