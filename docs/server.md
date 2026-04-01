@@ -26,11 +26,15 @@ For more information about Discord features, visit the [Discord website](https:/
 
 2. Select **Create My Own** and choose the server type.  
    **Why:** This creates a custom server suited to your team’s use case.
-![Choose the server type](image/server_setup/t2_s1_create_my_own.png)
+![Choose the server type](image/server_setup/t2_s1_create_your_own.png)
+
+3. Choose the server purpose, if not sure. can skip this question.
+![Choose the server purpose](image/server_setup/t2_s1_choose_server.png)
 
 
-3. Enter a clear server name and click **Create**.  
+4. Enter a clear server name and click **Create**.  
    **Why:** A clear name helps teammates identify the correct server quickly.
+   ![Enter name](image/server_setup/t2_s1_create_server.png)
 
 4. Open the server dropdown and click **Server Settings**.  
    **Why:** All core configuration options are managed in Server Settings.
