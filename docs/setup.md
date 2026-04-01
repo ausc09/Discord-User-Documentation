@@ -1,23 +1,12 @@
 # Getting Started
 
-Discord is a communications platform that enables you to communicate with lecturer and classmates during your time in BCIT. We will go through how to set up Discord application and register account, and How to add friends.
+## Introduction
 
-## Download Discord Application
+Discord is a communications platform that enables you to communicate with lecturer and classmates during your time in BCIT. This guide explains how to create an account, add friends and start your first conversation.
 
-You need to download Discord application to enjoy a more stable Discord experience. This section will show you how to download a free Discord application.
+## Create An Account
 
-1. Go to [Discord download page](https://discord.com/download) and click "Download for Mac" button in the middle.
-   ![Download Discord](image/setup/download.png)
-
-2. Open the downloaded file from your Downloads folder and drag the Discord icon into the Applications folder.
-   ![Download File](image/setup/file.png)
-
-3. Open the Applications folder and click Discord icon to launch Discord.
-   ![Applications](image/setup/applications.png)
-
-## Register Account
-
-You need to create an account in order to use Discord. This section will show you how to register a free Discord account.
+To use Discord, you must first create an account. This section will show you how to register a free Discord account.
 
 1. Click "Register" to create a new account.
    ![Launch](image/setup/launch.png)
@@ -37,3 +26,11 @@ After creating an account, you can add your classmates to start a conversation w
 
 2. Enter the username of your friends and click "Send Friend Request" button.
    ![Add Friends](image/setup/username.png)
+
+3. Click "Pending" button to view all the pending request you send.
+   ![Pending Request](image/setup/pending.png)
+
+4. Click "All" button to view list of your friend.
+   ![Friend List](image/setup/list.png)
+
+## Start Chat
