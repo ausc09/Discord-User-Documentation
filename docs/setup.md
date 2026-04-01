@@ -21,6 +21,8 @@ To use Discord, you must first create an account. This section will show you how
 
 After creating an account, you can add your classmates to start a conversation with them. This section will show you how to add friend in Discord.
 
+## Option 1: Send Request
+
 1. Click "Friends" button direct to friends manage page.
    ![Friends](image/setup/add.png) ![Friends Page](image/setup/friend.png)
 
@@ -33,4 +35,14 @@ After creating an account, you can add your classmates to start a conversation w
 4. Click "All" button to view list of your friend.
    ![Friend List](image/setup/list.png)
 
+## Option 2: Receive Request
+
+1.
+
 ## Start Chat
+
+1. Choose the friend you want to communicate with and click it.
+   ![Click Friend](image/setup/start.png) ![Chat](image/setup/empty.png)
+
+2. Enter your message and send it.
+   ![Chat](image/setup/chat.png)
