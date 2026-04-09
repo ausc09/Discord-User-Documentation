@@ -42,6 +42,9 @@ A clear channel structure reduces noise, keeps project communication organized, 
 2. To create a new text channel, hover over [Text Channels] and **Click** [+].  
    ![Create text channel](image/channel/t3_add_channel.png)
 
+!!! note
+    If you have any problems with creating channel, please check [Troubleshooting](troubleshooting.md).
+
 3. **Select** [Text], **Type** a [Channel Name] (for example, "announcements"), then **Click** [Create Channel].  
    ![Create announcements](image/channel/t3_text%20channel.png)
 
