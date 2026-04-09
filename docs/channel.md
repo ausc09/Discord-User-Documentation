@@ -21,11 +21,11 @@ Well-structured channels help your team manage announcements, meetings, files, a
 
 ## Recommended Channel Structure (Term Project Scope)
 
-- #announcements (important updates only)
-- #general (daily team chat)
-- #meeting-agenda (topics before meetings)
-- #meeting-minutes (notes after meetings)
-- #resources (shared links/files)
+- announcements (important updates only)
+- general (daily team chat)
+- meeting-agenda (topics before meetings)
+- meeting-minutes (notes after meetings)
+- resources (shared links/files)
 - Team Meeting Room (voice channel)
 
 ---
