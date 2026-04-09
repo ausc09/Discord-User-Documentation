@@ -49,8 +49,8 @@ After creating an account, you can add your classmates to start a conversation w
 3. **Enter** the username of your friends and **click** [Send Friend Request] button.
    ![Add Friends](image/setup/username.png)
 
-   !!! note
-      If you have any problems with sending friend request, please check [troubleshooting guide](troubleshooting.md)
+    !!! note
+        If you have any problems with sending friend request, please check [troubleshooting guide](troubleshooting.md)
 
 4. **Click** [Pending] button to view all the pending request you send.
    ![Pending Request](image/setup/pending.png)
