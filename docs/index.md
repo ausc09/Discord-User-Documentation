@@ -14,10 +14,10 @@ This guide is written for term 1 CST students who have no prior experience with 
 
 ## By the End of This Guide, You Will Be Able To
 
-1. Create an account, add friends and start chat
-2. Create and configure a Discord server
-3. Create channels and manage permissions in a Discord server
-4. Host a team meeting using Discord
+1. [Create an account, add friends, and start chat](setup.md)
+2. [Create and configure a Discord server](server.md)
+3. [Organize channels and configure permissions in a Discord server](channel.md)
+4. [Host a team meeting using Discord](meeting.md)
 
 ---
 
@@ -56,3 +56,4 @@ A **Warning** message highlights an action that may cause an error or unexpected
 
 !!! note
 A **Note** provides helpful context or extra detail for a step.
+

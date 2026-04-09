@@ -21,60 +21,74 @@ Well-structured channels help your team manage announcements, meetings, files, a
 
 ## Recommended Channel Structure (Term Project Scope)
 
-- **#announcements** (important updates only)
-- **#general** (daily team chat)
-- **#meeting-agenda** (topics before meetings)
-- **#meeting-minutes** (notes after meetings)
-- **#resources** (shared links/files)
-- **Team Meeting Room** (voice channel)
+- #announcements (important updates only)
+- #general (daily team chat)
+- #meeting-agenda (topics before meetings)
+- #meeting-minutes (notes after meetings)
+- #resources (shared links/files)
+- Team Meeting Room (voice channel)
 
 ---
 
 ## Setup Steps
 
-1. Open your Discord server and hover over **Text Channels**, then click **+** to create a new channel.  
-![Create text channel](image/channel_setup/t3_s1_create_text_channel.png)
+1. After you **Enable** [Community], Discord automatically creates [#rules] and [#moderator-only].  
+    - [#rules]: By default, this channel appears at the top with a special header. You can post your server rules and team meeting agreement here.  
+    - [#moderator-only]: Discord sends Community-related updates here for admins/moderators. Some information may be sensitive, so only the server owner can view it by default.  
+   ![rule channel](image/channel/t3_rules.png)  
+!!! note
+    These two channels cannot be directly deleted at first. You must first reassign their Community responsibilities to other channels, then remove channels that no longer hold those roles.
 
-2. Create a text channel named **#announcements**.  
-   **Why:** Central place for deadline reminders and official team notices.
-![Create announcements](image/channel_setup/t3_s2_announcements.png)
+2. To create a new text channel, hover over [Text Channels] and **Click** [+].  
+   ![Create text channel](image/channel/t3_add_channel.png)
 
-3. Create a text channel named **#general**.  
-   **Why:** Keeps day-to-day communication in one shared space.
-![Create general](image/channel_setup/t3_s3_general.png)
+3. **Select** [Text], **Type** a [Channel Name] (for example, "announcements"), then **Click** [Create Channel].  
+   ![Create announcements](image/channel/t3_text%20channel.png)
 
-4. Create a text channel named **#meeting-agenda**.  
-   **Why:** Team members can post discussion points before meetings.
-![Create meeting agenda](image/channel_setup/t3_s4_meeting_agenda.png)
+4. To create a voice channel, hover over [Voice Channels] and **Click** [+].  
+   ![Create voice channel](image/channel/t3_create_voice_channel.png)
 
-5. Create a text channel named **#meeting-minutes**.  
-   **Why:** Keeps meeting outcomes and action items documented.
-![Create meeting minutes](image/channel_setup/t3_s5_meeting_minutes.png)
+5. **Select** [Voice], **Type** a [Channel Name] (for example, "Team Meeting Room"), then **Click** [Create Channel].  
+   **Why:** This gives your team a dedicated space for live discussion.  
+   ![Create meeting room](image/channel/t3_voice%20channel.png)
 
-6. Create a text channel named **#resources**.  
-   **Why:** Stores project files, references, and useful links in one place.
-![Create resources](image/channel_setup/t3_s6_resources.png)
+6. To edit a channel, hover over the channel, right-click, and **Select** [Edit Channel].  
+   **Why:** For example, you may want to limit posting permissions in [#announcements].  
+   ![Edit channel](image/channel/t3_edit%20channel.png)
 
-7. Hover over **Voice Channels** and click **+** to create a new voice channel.  
-![Create voice channel](image/channel_setup/t3_s7_create_voice_channel.png)
+7. In [Overview], **Type** a short description in [Channel Topic] to explain the channel purpose.  
+   **Why:** Clear channel purpose reduces confusion and improves communication consistency.  
+   ![Channel topic](image/channel/t3_intro_to_channel.png)
 
-8. Create a voice channel named **Team Meeting Room**.  
-   **Why:** Gives your team a dedicated space for live discussions.
-![Create meeting room](image/channel_setup/t3_s8_team_meeting_room.png)
+8. In [Permissions], **Click** [Advanced Permissions].  
+   ![Advanced permissions](image/channel/t3_advanced_permissions.png)
 
-9. Reorder channels by dragging them (put **#announcements** and meeting channels near the top).  
-   **Why:** Important channels become easier to find quickly.
-![Reorder channels](image/channel_setup/t3_s9_reorder_channels.png)
+9. Under [ROLES/MEMBERS], confirm [@everyone] is selected. Then scroll to [Text Channel Permissions] → [Send Messages] and **Click** the red [X] to deny posting for everyone.  
+   See this first:  
+   ![Everyone role](image/channel/t3_everyone].png)  
+   Click this:  
+   ![Deny send messages](image/channel/t3_no_send_msg.png)
 
-10. Open each channel and post a short pinned message describing its purpose.  
-    **Why:** Clear channel purpose reduces confusion and improves communication consistency.
-![Pin channel purpose](image/channel_setup/t3_s10_pin_message.png)
+10. Scroll up and **Click** [+] next to [ROLES/MEMBERS]. When members appear, **Select** a specific member (or role).  
+   Click [+]:  
+   ![Add role/member](image/channel/t3_add_role.png)  
+   Member list appears:  
+   ![Pick user](image/channel/t3_pick_user.png)
+
+11. Scroll down to [Send Messages], then **Click** the green [✓] to allow posting for that selected member/role. **Click** [Save Changes], then **Press** [Esc] (top-right) to exit [Edit Channel].
+   ![Allow send messages](image/channel/t3_send_msg_yes.png)  
+   Exit [Edit Channel]:  
+   ![Exit edit](image/channel/t3_exit.png)
+
+12. If you want to remove a channel, hover over it, right-click, and **Click** [Delete Channel].  
+   ![Delete channel](image/channel/t3_delete.png)
 
 !!! success
-    Core channel setup is complete and ready for team collaboration.
+    Core channel management training is complete and ready for team collaboration.
 
 ---
 
 ## Conclusion
 
-Your Discord channels are now organized for term project teamwork, including announcement flow, meeting planning, meeting records, resource sharing, and voice discussion.
+Your Discord channel setup is now complete and structured for effective term project collaboration.  
+You have configured channel types, channel purpose descriptions, and permissions so communication stays clear, organized, and role-appropriate.  
