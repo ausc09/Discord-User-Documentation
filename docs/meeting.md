@@ -2,69 +2,77 @@
 
 ## Introduction
 
-Discord allows users to host voice or video meetings using voice channels. This section will guide you through starting and managing a team meeting.
+Discord allows users to host voice or video meetings using voice channels. This guide will walk you through how to start and manage a team meeting effectively.
 
 ---
 
 ## Prerequisites
 
-- You must have a server.
-- You grant permission to your microphone and camera.
+Before starting, make sure you have:
+- A Discord server
+- Permission to use your microphone and camera
 
 ---
 
 ## Start a Meeting
 
-After joinning a server, you can hold a meeing with your classmates. This section will show you how to start a team meeting.
+After joining a server, you can host a meeting with your classmates or teammates. This section will show you how to start a team meeting.
 
-1. Left bar will list all server you joined. Click the server that you want to have a meeting.
+1. The left sidebar displays all the servers you’ve joined. Click the server where you want to host your meeting.
     ![Server List](image/meeting/selectserver.png)
 
-2. Choose which voice channel you want to start meeting.
+2. Select a voice channel where you want to start the meeting.
     ![Channels List](image/meeting/channel.png)
 
-3. Click "invite to voice" icon to invite classmates.
+3. Click the “Invite to Voice” icon to invite your classmates
     ![Invite](image/meeting/invite.png)
 
     !!! warning
-        Click anywhere outside 3 icons will immediately start a voice meeting.
+        Clicking anywhere else in the channel will immediately start a voice meeting.
 
 
-4. Choose who you want to invite and click invite or send the link to your classmates.
+4. Choose who you want to invite and click Invite, or share the invite link with your classmates.
     ![Invite](image/meeting/inviteclassmate.png)
 
-5. Click channel to start a voice meeting.
+5. Click the voice channel to begin the meeting.
     ![Channel](image/meeting/start.png)
 
-6. Voice meeting started.
+6. You are now in a voice meeting.
     ![Voice Meeting](image/meeting/voice.png)
 
     !!! success "Voice meeting started"
         You have successfully start a voice meeting.
 
-7. Click share screen icon to share your screen.
+7. Click the screen share icon to present your screen to others.
     ![Screen](image/meeting/screen.png)
 
 8. Click camera icon to turn on your camera.
     ![Video Meeting](image/meeting/camera.png)
 
-9. Video meeting started.
+9. Once your camera is on, your meeting becomes a video meeting.
     ![Video Meeting](image/meeting/video.png)
 
     !!! success "Video meeting started"
         You have successfully start a video meeting.
 
-10. Click mic icon to mute/unmute yourself.
+10. Use the microphone icon to mute or unmute yourself.
     ![Mute](image/meeting/mute.png)
 
-11. Click red button if you want to end your meeting.
+11. Click the red disconnect button to leave and end the meeting.
     ![End](image/meeting/end.png)
 
 ---
 
 ## Summary
 
-In this section, you have learned how to start a meeting. You are now ready to start a meeting to discuss your project with your teammates.
+You have now learned how to:
+- Start a voice meeting
+- Invite participants
+- Use screen sharing and video
+- Manage audio controls
+- End a meeting
+
+You’re ready to host a team meeting and collaborate with your teammates on Discord!
 
 
 
