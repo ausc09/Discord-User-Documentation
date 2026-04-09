@@ -75,6 +75,6 @@ Well-structured channels help your team manage announcements, meetings, files, a
 
 ---
 
-## Conclusion
+## Summary
 
 Your Discord channels are now organized for term project teamwork, including announcement flow, meeting planning, meeting records, resource sharing, and voice discussion.

@@ -4,6 +4,8 @@ docs_dir: docs
 
 theme:
   name: material
+  features:
+    - toc.integrate
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -25,6 +27,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - toc:
+      permalink: true
 
 nav:
   - Home: index.md
