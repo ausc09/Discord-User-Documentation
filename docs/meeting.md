@@ -35,17 +35,26 @@ After joining a server, you can host a meeting with your classmates or teammates
 4. Choose who you want to invite and click [Invite], or share the invite link with your classmates.
     ![Invite](image/meeting/inviteclassmate.png)
 
+    !!! note
+        If you have any problems with invite link, please check [troubleshooting guide](troubleshooting.md)
+
 5. **Click** the voice channel to begin the meeting.
     ![Channel](image/meeting/start.png)
 
 6. You are now in a voice meeting.
     ![Voice Meeting](image/meeting/voice.png)
 
+    !!! note
+        If you have any problems with sound, please check [troubleshooting guide](troubleshooting.md)
+
     !!! success "Voice meeting started"
         You have successfully start a voice meeting.
 
 7. **Click** the [screen share] icon to present your screen to others.
     ![Screen](image/meeting/screen.png)
+
+    !!! note
+        If you have any problems with sharing screen, please check [troubleshooting guide](troubleshooting.md)
 
 8. **Click** [camera] icon to turn on your camera.
     ![Video Meeting](image/meeting/camera.png)

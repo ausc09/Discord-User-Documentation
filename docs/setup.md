@@ -27,7 +27,7 @@ To use Discord, you must first create an account. This section will show you how
    ![Home Page](image/setup/main.png)
 
 !!! note
-    You can verify your email now or later by clicking the link sent to your email.
+    You can verify your email now or later by clicking the link sent to your email. If you have any problems with verification, please check [troubleshooting guide](troubleshooting.md)
 
 !!! success
     Your Discord account has been successfully created.
@@ -48,6 +48,9 @@ After creating an account, you can add your classmates to start a conversation w
 
 3. **Enter** the username of your friends and **click** [Send Friend Request] button.
    ![Add Friends](image/setup/username.png)
+
+   !!! note
+      If you have any problems with sending friend request, please check [troubleshooting guide](troubleshooting.md)
 
 4. **Click** [Pending] button to view all the pending request you send.
    ![Pending Request](image/setup/pending.png)
