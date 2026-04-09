@@ -49,13 +49,13 @@ This guide uses the following typographic conventions:
 This guide uses three types of messages to provide additional information:
 
 !!! success
-A **Success** message describes the expected outcome of a completed step.
+    A Success message describes the expected outcome of a completed step.
 
 !!! warning
-A **Warning** message highlights an action that may cause an error or unexpected result.
+    A Warning message highlights an action that may cause an error or unexpected result.
 
 !!! note
-A **Note** provides helpful context or extra detail for a step.
+    A Note provides helpful context or extra detail for a step.
 
 ---
 
