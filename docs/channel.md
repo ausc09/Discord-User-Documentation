@@ -91,4 +91,7 @@ Well-structured channels help your team manage announcements, meetings, files, a
 ## Conclusion
 
 Your Discord channel setup is now complete and structured for effective term project collaboration.  
-You have configured channel types, channel purpose descriptions, and permissions so communication stays clear, organized, and role-appropriate.  
+You have configured channel types, channel purpose descriptions, and permissions so communication stays clear, organized, and role-appropriate.
+
+
+

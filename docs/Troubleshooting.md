@@ -9,3 +9,7 @@
 | The invite link is not working for your teammates. | The link may have expired or reached its maximum number of uses. | Return to [Server Settings] → [Invites] and generate a new invite link. Make sure to set an appropriate expiration time and usage limit. |
 | You cannot create a voice channel or change server settings. | You may not have the required permissions in the server. | Contact the server owner to grant you the appropriate role or permissions. |
 | Your screen share is lagging or freezing during the meeting. | Your internet connection may be unstable, or too many applications are running. | Close unnecessary applications to free up memory. Move closer to your Wi-Fi router or switch to a wired connection if possible. |
+
+
+
+

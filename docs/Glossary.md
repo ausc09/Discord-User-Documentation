@@ -12,3 +12,6 @@
 | **Username** | A unique identifier for each Discord account used to find and add friends. |
 | **Voice Channel** | A channel for real-time audio, video, and screen sharing communication. |
 | **@mention** | A way to notify a specific user by typing @ followed by their username. |
+
+
+

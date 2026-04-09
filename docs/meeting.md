@@ -9,6 +9,7 @@ Discord allows users to host voice or video meetings using voice channels. This 
 ## Prerequisites
 
 Before starting, make sure you have:
+
 - A Discord server
 - Permission to use your microphone and camera
 
@@ -74,6 +75,7 @@ You have now learned how to:
 - End a meeting
 
 You’re ready to host a team meeting and collaborate with your teammates on Discord!
+
 
 
 

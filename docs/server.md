@@ -81,3 +81,6 @@ For more information about Discord features, visit the [Discord website](https:/
 ## Conclusion
 
 Your Discord server is now configured for term project collaboration with appropriate identity, safety, notification, and invite settings for a 3–10 member team.
+
+
+
