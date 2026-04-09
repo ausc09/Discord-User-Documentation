@@ -63,7 +63,7 @@ After joining a server, you can host a meeting with your classmates or teammates
 
 ---
 
-## Summary
+## Conclusion
 
 You have now learned how to:
 - Start a voice meeting

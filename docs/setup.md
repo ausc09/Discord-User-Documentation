@@ -95,7 +95,7 @@ After adding a friend, you can start your first conversation with them. This sec
 
 ---
 
-## Summary
+## Conclusion
 
 In this section, you have learned how to:
 
