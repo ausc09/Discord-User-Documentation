@@ -84,7 +84,7 @@ After creating an account, you can add your classmates to start a conversation w
 
 After adding a friend, you can start your first conversation with them. This section will show you how to start chatting with your friend.
 
-1. **Click** "All" button and choose the friend you want to communicate with and click it.
+1. **Click** [All] button and choose the friend you want to communicate with and click it.
    ![Click Friend](image/setup/start.png) ![Chat](image/setup/empty.png)
 
 2. **Enter** your message and send it.
