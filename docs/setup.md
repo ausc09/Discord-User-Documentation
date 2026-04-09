@@ -80,7 +80,7 @@ After creating an account, you can add your classmates to start a conversation w
 
 ---
 
-## Start Chat
+## Start Chatting
 
 After adding a friend, you can start your first conversation with them. This section will show you how to start chatting with your friend.
 
