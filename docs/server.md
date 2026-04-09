@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this section, you will configure the server-level settings your team depends on: server name, privacy/safety options, roles, and invite access.
+In this section, you will configure the server-level settings your team depends on: server name, privacy/safety options, and invite access.
 
 A properly configured server creates a stable foundation for collaboration before channels and meetings are set up.
 
