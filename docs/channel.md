@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section explains how to create and organize Discord channels for a **term project team (3–10 members)**.
+This section explains how to create and organize Discord channels for a team around 3–10 members.
 
 Well-structured channels help your team manage announcements, meetings, files, and daily communication efficiently.
 
