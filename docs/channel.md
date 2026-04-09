@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This section explains how to create and organize Discord channels for a team around 3–10 members.
+In this section, you will create and organize text/voice channels, then configure permissions so the right people can post in the right places.
 
-Well-structured channels help your team manage announcements, meetings, files, and daily communication efficiently.
+A clear channel structure reduces noise, keeps project communication organized, and helps team members find information quickly.
 
 ---
 
@@ -15,11 +15,11 @@ Well-structured channels help your team manage announcements, meetings, files, a
 - Your team has agreed on basic communication rules.
 
 !!! note
-    This channel structure is optimized for term project collaboration, not large public communities.
+    This channel structure is optimized for  team collaboration, not large public communities.
 
 ---
 
-## Recommended Channel Structure (Term Project Scope)
+## Recommended Channel Structure (3–10 Member Team)
 
 - announcements (important updates only)
 - general (daily team chat)
@@ -90,7 +90,7 @@ Well-structured channels help your team manage announcements, meetings, files, a
 
 ## Conclusion
 
-Your Discord channel setup is now complete and structured for effective term project collaboration.  
+Your Discord channel setup is now complete and structured for effective team collaboration.  
 You have configured channel types, channel purpose descriptions, and permissions so communication stays clear, organized, and role-appropriate.
 
 

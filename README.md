@@ -1,6 +1,6 @@
 # Discord User Documentation
 
-This repository contains user instructions for setting up and using Discord for CST term project collaboration (teams of 3–10 members).  
+This repository contains user instructions for setting up and using Discord for CST team collaboration (teams of 3–10 members).  
 The documentation is written for beginner users and explains how to complete key collaboration tasks clearly and efficiently.
 
 The instruction set covers:

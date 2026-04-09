@@ -2,24 +2,24 @@
 
 ## Introduction
 
-This section explains how to create and configure a Discord server for a term project team (3–10 members).
+In this section, you will configure the server-level settings your team depends on: server name, privacy/safety options, roles, and invite access.
 
-For more information about Discord features, visit the [Discord website](https://discord.com).
+A properly configured server creates a stable foundation for collaboration before channels and meetings are set up.
 
 ---
 
 ## Prerequisites
 
 - You have a Discord account and are signed in.
-- You are using Discord desktop app or web version.
-- Your team size is within 3–10 members.
+- You are using the Discord desktop app or web version.
+- Your team size is 3–10 members.
 
 !!! note
-    This setup is optimized for term project collaboration, not public community servers.
+    This setup is optimized for private team collaboration, not public community servers. Public community servers require stricter safety and moderation configuration.
 
 ---
 
-## Recommended Configuration (Term Project Scope)
+## Recommended Configuration (3–10 Member Team)
 
 - Default Notifications: Only @mentions  
 - Invite Expiration: 7 days  
@@ -80,7 +80,7 @@ For more information about Discord features, visit the [Discord website](https:/
 
 ## Conclusion
 
-Your Discord server is now configured for term project collaboration with appropriate identity, safety, notification, and invite settings for a 3–10 member team.
+Your Discord server is now configured for team collaboration with appropriate identity, safety, notification, and invite settings for a 3–10 member team.
 
 
 
